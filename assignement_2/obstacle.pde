@@ -1,14 +1,8 @@
 class Obstacle {
-  
+
   Obstacle() {
-    
   }
-  
-void display(){
-  
-  
-}
-  
-  
-  
+
+  void display() {
+  }
 }
